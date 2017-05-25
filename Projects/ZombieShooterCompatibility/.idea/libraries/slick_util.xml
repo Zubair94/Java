@@ -1,0 +1,49 @@
+<component name="libraryTable">
+  <library name="slick-util">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/slick-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl-2.9.3/applet/advance/lwjgl_util_applet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl-2.9.3/applet/advance/lzma.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl-2.9.3/applet/basic/lwjgl_applet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl-2.9.3/applet/basic/jinput.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl-2.9.3/applet/basic/lwjgl_util_applet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl-2.9.3/applet/basic/lwjgl_util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl-2.9.3/applet/basic/lwjgl-debug.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl-2.9.3/applet/basic/lwjgl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl-2.9.3/jar/AppleJavaExtensions.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl-2.9.3/jar/asm-debug-all.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl-2.9.3/jar/jinput.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl-2.9.3/jar/laf-plugin-7.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl-2.9.3/jar/laf-widget-7.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl-2.9.3/jar/log4j-api-2.0-beta9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl-2.9.3/jar/lwjgl-debug.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl-2.9.3/jar/lwjgl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl-2.9.3/jar/lwjgl_test.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl-2.9.3/jar/lwjgl_util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl-2.9.3/jar/lwjgl_util_applet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl-2.9.3/jar/lzma.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl-2.9.3/jar/substance-7.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl-2.9.3/jar/trident-7.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl-2.9.3/src/platform_build/JLzma.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl-2.9.3/src/platform_build/Pack200Task.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/libs/lwjgl-2.9.3/native/linux" />
+      <root url="file://$PROJECT_DIR$/libs/lwjgl-2.9.3/native/linux" />
+      <root url="file://$PROJECT_DIR$/libs/lwjgl-2.9.3/native/linux" />
+      <root url="file://$PROJECT_DIR$/libs/lwjgl-2.9.3/native/linux" />
+      <root url="file://$PROJECT_DIR$/libs/lwjgl-2.9.3/native/linux" />
+      <root url="file://$PROJECT_DIR$/libs/lwjgl-2.9.3/native/linux" />
+      <root url="file://$PROJECT_DIR$/libs/lwjgl-2.9.3/native/windows" />
+      <root url="file://$PROJECT_DIR$/libs/lwjgl-2.9.3/native/windows" />
+      <root url="file://$PROJECT_DIR$/libs/lwjgl-2.9.3/native/windows" />
+      <root url="file://$PROJECT_DIR$/libs/lwjgl-2.9.3/native/windows" />
+      <root url="file://$PROJECT_DIR$/libs/lwjgl-2.9.3/native/windows" />
+      <root url="file://$PROJECT_DIR$/libs/lwjgl-2.9.3/native/windows" />
+      <root url="file://$PROJECT_DIR$/libs/lwjgl-2.9.3/native/windows" />
+      <root url="file://$PROJECT_DIR$/libs/lwjgl-2.9.3/native/windows" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
